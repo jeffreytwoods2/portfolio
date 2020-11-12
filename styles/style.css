@@ -1,0 +1,47 @@
+body {
+    color: #3f3f3f;
+}
+
+#dying {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar {
+    background-color: maroon;
+}
+
+header {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    color:#3f3f3f;
+}
+
+#face {
+    max-width: 100%;
+    height: auto;
+    border-color: maroon;
+}
+
+#face-div {
+    margin-bottom: 30px;
+}
+
+#bio {
+    font-size: x-large;
+    color: maroon;
+}
+
+#contact {
+    padding-left: 15px;
+    font-size: x-large;
+    background-color: maroon;
+}
+
+a {
+    color: white;
+}
+
+hr {
+    background-color: white;
+}
