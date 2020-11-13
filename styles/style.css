@@ -77,3 +77,9 @@ i {
 .card-body {
     font-size: x-large;
 }
+
+.screencap {
+    max-width: 100%;
+    height: auto;
+    border-color: maroon;
+}
