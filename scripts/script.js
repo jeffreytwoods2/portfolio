@@ -9,12 +9,13 @@ let srcArray = [
 ];
 
 rightArrow.on('click', function () {
+    let arrayLen = srcArray.length - 1;
 
-    if (parseInt($("#truck-pics").attr("data-toggle")) < srcArray.length - 1) {
+    if (parseInt($("#truck-pics").attr("data-toggle")) < arrayLen) {
         let newToggle = parseInt($("#truck-pics").attr("data-toggle")) + 1;
         truckImg.attr("data-toggle", newToggle);
         truckImg.attr("src", srcArray[newToggle]);
-    } else if (parseInt($("#truck-pics").attr("data-toggle")) === srcArray.length - 1) {
+    } else if (parseInt($("#truck-pics").attr("data-toggle")) === arrayLen) {
         truckImg.attr("data-toggle", 0);
         truckImg.attr("src", srcArray[0]);
     };

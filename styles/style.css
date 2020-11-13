@@ -53,14 +53,27 @@ hr {
     border-color: maroon;
 }
 
-#truck-carousel {
-    margin-top: 0;
-}
-
 #arrows {
     font-size: 3em;
 }
 
 i {
     color: maroon;
+}
+
+#specs {
+    margin-top: 30px;
+}
+
+#specs-card {
+    text-align: center;
+}
+
+.card-header {
+    background-color: maroon;
+    color: white;
+}
+
+.card-body {
+    font-size: x-large;
 }
