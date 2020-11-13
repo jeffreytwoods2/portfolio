@@ -83,3 +83,7 @@ i {
     height: auto;
     border-color: maroon;
 }
+
+.project-info {
+    margin-bottom: 30px;
+}
