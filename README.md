@@ -16,4 +16,8 @@ Contains contact info, resume, project summaries w/ links, and a gallery of truc
 
 ### Screenshots:
 
+![Screenshot 1](screencaps/screencap-1.png)
+
+![Screenshot 2](screencaps/screencap-2.png)
+
 Email me: jeffreytwoods2@icloud.com
