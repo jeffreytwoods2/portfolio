@@ -3,11 +3,11 @@
 ## Link: https://jeffreytwoods2.github.io/portfolio/
 
 ### Technology:
-HTML
-CSS
-Javascript
-Bootstrap
-Font Awesome
+HTML <br>
+CSS <br>
+Javascript <br>
+Bootstrap <br>
+Font Awesome <br>
 JQuery
 
 
