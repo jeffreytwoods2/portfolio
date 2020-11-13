@@ -45,3 +45,22 @@ a {
 hr {
     background-color: white;
 }
+
+#truck-pics {
+    max-width: 100%;
+    max-height: 400px;
+    display: inline;
+    border-color: maroon;
+}
+
+#truck-carousel {
+    margin-top: 0;
+}
+
+#arrows {
+    font-size: 3em;
+}
+
+i {
+    color: maroon;
+}
