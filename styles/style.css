@@ -30,6 +30,7 @@ header {
 #bio {
     font-size: x-large;
     color: maroon;
+    padding-top: 0;
 }
 
 #contact {
@@ -75,7 +76,7 @@ i {
 }
 
 .card-body {
-    font-size: 3em;
+    font-size: x-large;
 }
 
 .screencap {
