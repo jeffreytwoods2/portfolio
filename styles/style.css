@@ -37,6 +37,11 @@ header {
     padding-left: 15px;
     font-size: x-large;
     background-color: maroon;
+    margin-bottom: 30px;
+}
+
+#contact address {
+    margin-bottom: 0;
 }
 
 address a {
