@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: midnightblue;
+    color: white;
+}
+
+.employee-card {
+    margin: 0 15px;
+}
+
+.card-header {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
